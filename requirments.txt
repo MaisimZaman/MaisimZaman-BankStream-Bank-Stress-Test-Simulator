@@ -14,6 +14,7 @@ streamlit==1.32.2
 matplotlib==3.8.3
 seaborn==0.13.2
 plotly==5.20.0
+joblib
 
 # Model Saving
 joblib==1.4.0
