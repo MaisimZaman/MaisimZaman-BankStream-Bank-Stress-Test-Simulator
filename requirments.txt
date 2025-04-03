@@ -18,3 +18,5 @@ joblib
 
 # Model Saving
 joblib==1.4.0
+
+shap
