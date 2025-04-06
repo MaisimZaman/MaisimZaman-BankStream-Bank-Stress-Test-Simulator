@@ -1,0 +1,16 @@
+LoanID,Age,Income,LoanAmount,CreditScore,MonthsEmployed,NumCreditLines,InterestRate,LoanTerm,DTIRatio,Education,EmploymentType,MaritalStatus,HasMortgage,HasDependents,LoanPurpose,HasCoSigner
+ID4635,25,175831,56541,727,173,3,6.44,36,0.19,High School,Self-employed,Married,No,No,Mortgage,No
+ID6952,22,127152,30404,726,174,3,3.92,24,0.22,PhD,Self-employed,Married,No,Yes,Auto,Yes
+ID8185,69,176420,20174,791,264,7,3.75,60,0.19,Master's,Self-employed,Divorced,Yes,No,Education,Yes
+ID8108,61,142698,70285,820,120,5,3.88,48,0.21,High School,Full-time,Married,Yes,Yes,Other,No
+ID5040,46,178220,40317,824,328,7,5.9,60,0.15,Master's,Full-time,Divorced,Yes,Yes,Mortgage,No
+ID4372,23,114356,36525,766,251,2,6.93,12,0.29,Bachelor's,Self-employed,Married,Yes,No,Credit Card,Yes
+ID0899,41,128081,86848,788,356,9,4.44,12,0.21,Bachelor's,Unemployed,Divorced,No,No,Auto,Yes
+ID3956,22,154193,33204,777,135,4,5.04,36,0.13,High School,Part-time,Divorced,No,No,Other,No
+ID0221,25,93413,37894,739,25,9,6.94,48,0.19,PhD,Unemployed,Divorced,No,Yes,Mortgage,No
+ID6191,45,169654,31723,824,161,7,6.93,24,0.13,Master's,Self-employed,Married,Yes,No,Mortgage,Yes
+ID3141,30,188978,22512,830,352,3,3.72,48,0.26,Bachelor's,Part-time,Married,Yes,Yes,Mortgage,No
+ID9004,60,185732,34529,802,322,7,5.07,60,0.17,Bachelor's,Part-time,Single,No,No,Education,No
+ID2103,55,148564,92721,780,101,2,6.39,60,0.13,Master's,Part-time,Divorced,No,Yes,Auto,No
+ID5023,64,110812,28897,848,110,2,6.95,60,0.27,PhD,Full-time,Divorced,No,No,Credit Card,Yes
+ID8142,32,140858,20117,767,94,8,4.64,12,0.19,Bachelor's,Self-employed,Married,No,No,Education,Yes
