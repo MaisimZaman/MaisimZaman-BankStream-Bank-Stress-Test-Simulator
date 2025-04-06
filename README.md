@@ -1,4 +1,5 @@
 Dataset used for this project: https://www.kaggle.com/datasets/nikhil1e9/loan-default
+![image](https://github.com/user-attachments/assets/c7a0a52d-dbcf-4855-8c7d-099c6c043be8)
 
 
 # 🏦 BankStressSim – ML-Powered Loan Portfolio Risk Simulator
